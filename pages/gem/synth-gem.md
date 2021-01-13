@@ -18,7 +18,7 @@ The patch above produces the following result:
 
 ![Viz]( )
 
-Here, an `osc~` type signal (generating a cosine signal) is input to the red channel. The green channel receives a `noise~` signal (uniformly distributed white noise). Finally, the blue channel receives a `phasor~` signal, which corresponds to a sawtooth signal. An `atom' (an object to adjust a value, which can be connected to an inlet) has been added here to `osc~` and `phasor~` to adjust the frequency of the signals. 
+Here, an `osc~` type signal (generating a cosine signal) is input to the red channel. The green channel receives a `noise~` signal (uniformly distributed white noise). Finally, the blue channel receives a `phasor~` signal, which corresponds to a sawtooth signal. An `atom` (an object to adjust a value, which can be connected to an inlet) has been added here to `osc~` and `phasor~` to adjust the frequency of the signals. 
 
 By adjusting a little and activating the `noise~` signal, you can get this result: 
 
