@@ -1,4 +1,6 @@
-A simple way to perform video synthesis in [[Pure Data]] is to use the `pix_sig2pix~` object from the GEM library. 
+# GEM Video Synthesis
+
+## A simple way to perform video synthesis in [[Pure Data]] is to use the `pix_sig2pix~` object from the GEM library. 
 
 ![[nw_GUN2m1Q7O4.png]]
 
