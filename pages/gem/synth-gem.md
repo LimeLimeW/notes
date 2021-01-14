@@ -24,3 +24,4 @@ By adjusting a little and activating the `noise~` signal, you can get this resul
 
 ![Viz](https://raw.githubusercontent.com/LimeLimeW/notes/main/pages/img/pd_8MgZaqBRvS.png)
 
+Further reading : see ![Five Days of Pure Data – Image to Signal, by hellocatfood](https://www.hellocatfood.com/five-days-of-pure-data-image-to-signal/)
